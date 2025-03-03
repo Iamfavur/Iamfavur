@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate engineer with a love for learning
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username= Iamfavur&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamfavur&layout=compact&theme=radical)
 
 ## Connect with Me
 
