@@ -1,6 +1,6 @@
 # Hi there, I'm Favur! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for learning and creating. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a passionate engineer with a love for learning and creating. Here's a little bit about me:
 
 ## About Me
 
