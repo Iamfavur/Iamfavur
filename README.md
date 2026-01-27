@@ -2,7 +2,7 @@
 
 ## Social Presence 🤝
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/favour-uduose)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:chintusamala96@gmail.com"/>](mailto:uduosefavour1199@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:uduosefavour1199@gmail.com"/>](mailto:uduosefavour1199@gmail.com)
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://wwww.favouruduose.com)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Iamfavur)
 
@@ -10,7 +10,7 @@
 
 ## About Me 🙋
 
-I am a fullstack developer and AI language model researcher with a passion driven development having **3+ years of experience.** I am super enthusiast to build products from scratch by experimenting with different technologies. I love to contribute my knowledge and experience to open source projects.
+I am a software Engineer and AI language model researcher with a passion driven development having **3+ years of experience.** I am super enthusiast to build products from scratch by experimenting with different technologies. I love to contribute my knowledge and experience to open source projects.
 
 ## Skill Set 💪
 
@@ -31,7 +31,7 @@ I am a fullstack developer and AI language model researcher with a passion drive
 
 ---
 
-#### **Libraries and Frameworks:**
+#### **Engineering Libraries & Frameworks:**
 
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>]()
 [<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />]()
@@ -53,6 +53,22 @@ I am a fullstack developer and AI language model researcher with a passion drive
 [<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>]()
+
+&nbsp;
+
+---
+
+#### **AI/ML Tools & Libraries:**
+
+[<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />]()
+[<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/LangChain-121112?style=for-the-badge&logo=chainlink&logoColor=white" />]()
 
 &nbsp;
 
