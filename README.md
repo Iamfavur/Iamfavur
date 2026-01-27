@@ -110,9 +110,8 @@ I am a software Engineer and AI language model researcher with a passion driven 
 ---
 
 &nbsp;
-<p align="center"> 
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Iamfavur)](https://git.io/streak-stats)
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Iamfavur)](https://git.io/streak-stats)
+
 &nbsp; 
 
 &nbsp;
