@@ -10,7 +10,7 @@
 
 ## About Me 🙋
 
-I am a software Engineer and AI language model researcher with a passion driven development having **3+ years of experience.** I am super enthusiast to build products from scratch by experimenting with different technologies. I love to contribute my knowledge and experience to open source projects.
+I am a software engineer and AI language model (LLM) researcher with **over 4 years of experience.** I’m passionate about building products from scratch, experimenting with new technologies, and contributing to open-source projects.
 
 ## Skill Set 💪
 
