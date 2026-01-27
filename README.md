@@ -70,6 +70,12 @@ I am a software engineer and AI language model (LLM) researcher with **over 4 ye
 [<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />]()
 [<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/LangChain-121112?style=for-the-badge&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Gradio-3E7BF6?style=for-the-badge&logo=gradio&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white" />]()
 
 [<img src="https://img.shields.io/badge/JAX-0052CC?style=for-the-badge&logo=jax&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />]()
@@ -80,14 +86,6 @@ I am a software engineer and AI language model (LLM) researcher with **over 4 ye
 [<img src="https://img.shields.io/badge/Weights%20%26%20Biases-F9D423?style=for-the-badge&logo=weightsandbiases&logoColor=black" />]()
 [<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Optuna-2C4BFE?style=for-the-badge&logoColor=white" />]()
-
-[<img src="https://img.shields.io/badge/Gradio-3E7BF6?style=for-the-badge&logo=gradio&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white" />]()
-
 <!-- 3D CNN / 3D Vision and Medical Imaging -->
 [<img src="https://img.shields.io/badge/PyTorch3D-3B3B3B?style=for-the-badge&logo=pytorch&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Open3D-2C3E50?style=for-the-badge&logoColor=white" />]()
