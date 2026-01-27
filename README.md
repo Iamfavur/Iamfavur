@@ -66,9 +66,36 @@ I am a software engineer and AI language model (LLM) researcher with **over 4 ye
 [<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />]()
 [<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/LangChain-121112?style=for-the-badge&logo=chainlink&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/LangChain-121112?style=for-the-badge&logoColor=white" />]()
+
+[<img src="https://img.shields.io/badge/JAX-0052CC?style=for-the-badge&logo=jax&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Lightning%20AI-792EE5?style=for-the-badge&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Weights%20%26%20Biases-F9D423?style=for-the-badge&logo=weightsandbiases&logoColor=black" />]()
+[<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Optuna-2C4BFE?style=for-the-badge&logoColor=white" />]()
+
+[<img src="https://img.shields.io/badge/Gradio-3E7BF6?style=for-the-badge&logo=gradio&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white" />]()
+
+<!-- 3D CNN / 3D Vision and Medical Imaging -->
+[<img src="https://img.shields.io/badge/PyTorch3D-3B3B3B?style=for-the-badge&logo=pytorch&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/Open3D-2C3E50?style=for-the-badge&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/MONAI-179C7D?style=for-the-badge&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/MinkowskiEngine-222222?style=for-the-badge&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/NVIDIA%20Kaolin-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/MMDetection3D-1F6FEB?style=for-the-badge&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/TorchIO-E84C3D?style=for-the-badge&logoColor=white" />]()
 
 &nbsp;
 
