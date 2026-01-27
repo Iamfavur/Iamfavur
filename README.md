@@ -10,7 +10,7 @@
 
 ## About Me 🙋
 
-I am a fullstack developer with a passion driven development having **3+ years of experience.** I am super enthusiast to build products from scratch by experimenting with different technologies. I love to contribute my knowledge and experience to open source projects.
+I am a fullstack developer and AI language model researcher with a passion driven development having **3+ years of experience.** I am super enthusiast to build products from scratch by experimenting with different technologies. I love to contribute my knowledge and experience to open source projects.
 
 ## Skill Set 💪
 
@@ -26,10 +26,6 @@ I am a fullstack developer with a passion driven development having **3+ years o
 [<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>]()
 [<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />]()
-<!-- [<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />]()
-[<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />]() -->
 
 &nbsp;
 
@@ -57,11 +53,6 @@ I am a fullstack developer with a passion driven development having **3+ years o
 [<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>]()
-<!-- [<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />]() -->
-<!-- [<img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />]() -->
-<!-- [<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />]() -->
-<!-- [<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />]() -->
 
 &nbsp;
 
@@ -75,8 +66,7 @@ I am a fullstack developer with a passion driven development having **3+ years o
 [<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />]()
-<!-- [<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />]() -->
-<!-- [<img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" />]() -->
+[<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />]()
 
 
 &nbsp;
