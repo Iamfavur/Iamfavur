@@ -136,7 +136,7 @@ I am a software engineer and AI language model (LLM) researcher with **over 4 ye
 
 &nbsp;
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamfavur&theme=highcontrast" />
+  <img src="https://github-readme-streak-stats-three-liard.vercel.app?user=iamfavur&theme=highcontrast&hide_border=true" />
 </p> 
 
 &nbsp;
