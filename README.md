@@ -10,7 +10,7 @@
 
 ## About Me 🙋
 
-I am a software engineer and AI language model (LLM) researcher with **over 4 years of experience.** I’m passionate about building products from scratch, experimenting with new technologies, and contributing to open-source projects.
+I am a software engineer and AI language model (LLM) researcher with **over half-a-decade of experience.** I’m passionate about building products from scratch, experimenting with new technologies, and contributing to open-source projects.
 
 ## Skill Set 💪
 
@@ -156,7 +156,7 @@ I am a software engineer and AI language model (LLM) researcher with **over 4 ye
 &nbsp;
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Build+everything+that+you+can;AI+Rulee;Touching+grass+rn;I+LOVE+Coding" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Build+everything+that+you+can;AI+Rulee;Touching+grass+rn;I+LOVE+Coding;An+unstoppable+force;" alt="Typing SVG" /></a>
 </p>
 &nbsp;
 
