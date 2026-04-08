@@ -156,6 +156,11 @@ I am a software engineer and AI language model (LLM) researcher with **over 4 ye
 &nbsp;
 
 <p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Build+everything+that+you+can;AI+Rulee;Touching+grass+rn;I+LOVE+Coding" alt="Typing SVG" /></a>
+</p>
+&nbsp;
+
+<p align="center">
   
 <img src="https://komarev.com/ghpvc/?username=Iamfavur&label=PROFILE%20VIEWS" />
 </p>
