@@ -142,7 +142,7 @@ I am a software engineer and AI language model (LLM) researcher with **over half
 &nbsp;
 
 <p align="center">
-  <!-- <img src="https://github-profile-trophy-kannan.vercel.app/?username=Iamfavur&show_icons=true&theme=radical&count_private=true" />   -->
+  <img src="https://gh-trophy.cdnsoft.net/?username=Iamfavur&show_icons=true&theme=radical&count_private=true" />  
   <!-- https://github-profile-trophy.vercel.app  this is the original URL but had to be removed because it was take down due to much load, i'm currently using a hosted copy, if this one gets taken down again, i should find the original repo, fork it and host it on github-->
 
 </p>
